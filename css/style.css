@@ -1,0 +1,23 @@
+body{
+    font-size: .12rem;
+}
+header ul{
+    line-height: .3rem;
+    display: flex;
+}
+header ul li{
+    flex-basis: 33.3%;
+    text-align: center; 
+}
+.active{
+    color: skyblue;
+}
+section{
+
+}
+section .list{
+
+}
+section .list1{
+
+}
